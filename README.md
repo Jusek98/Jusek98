@@ -6,7 +6,7 @@
  
 ###  **Qui suis-je ?**
  Étudiant en génie de logiciel et informatique, présentement en voie d’obtenir mon baccalauréat . Mon expérience à titre d'étudiant m’a amené à participer à plusieurs projets académiques tels que le développement d’un site web de vente de produits informatiques, d’un agenda électronique, etc. J’ai pu à travers mon parcours académique développer de nombreuses habiletés professionnelles avec plusieurs langages de programmation et frameworks.
- languages
+
 ### 🧰 Languages et Outils
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
