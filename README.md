@@ -1,11 +1,13 @@
 #  :man: :computer: Sékou Junior Diakité 
----
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Créateur+Digitale)](https://git.io/typing-svg)
 
 
  
 ###  **Qui suis-je ?**
  Étudiant en génie de logiciel et informatique, présentement en voie d’obtenir mon baccalauréat . Mon expérience à titre d'étudiant m’a amené à participer à plusieurs projets académiques tels que le développement d’un site web de vente de produits informatiques, d’un agenda électronique, etc. J’ai pu à travers mon parcours académique développer de nombreuses habiletés professionnelles avec plusieurs langages de programmation et frameworks.
+ 
+---
 
 ### 🧰 Languages et Outils
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -26,15 +28,17 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
---- 
+---
 
 
-  <h2>📘 Language les plus utilises</h2>
+
+  ## 📘 Language les plus utilises ##
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusek98&layout=compact)](https://github.com/Jusek98)
 
 
 ---
+
 ### 📊 Stats
 
 ![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jusek98&show_icons=true&theme=gruvbox)
