@@ -28,7 +28,7 @@
 
 --- 
 
-<details open> 
+
   <summary><h2>📘 Language les plus utilises</h2></summary>
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jusek98&layout=compact)](https://github.com/Jusek98)
