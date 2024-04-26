@@ -10,41 +10,37 @@
 ---
 
 ### 🧰 Languages et Outils
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<!-- Frontend Technologies -->
+<img align="left" alt="HTML5" width="30px" src="...html5-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="30px" src="...css3-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="30px" src="...javascript-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="30px" src="...typescript-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="30px" src="...angularjs-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="30px" src="...react-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<!-- ArgoCD -->
-<img align="left" alt="ArgoCD" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" />
+<!-- Backend Technologies -->
+<img align="left" alt="Node.js" width="30px" src="...nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="30px" src="...python-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="30px" src="...java-original.svg" style="padding-right:10px;" />
 
-<!-- Node.js -->
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<!-- DevOps & Deployment -->
+<img align="left" alt="Docker" width="30px" src="...docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kubernetes" width="30px" src="...kubernetes-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="ArgoCD" width="30px" src="...argocd-original.svg" style="padding-right:10px;" />
 
-<!-- Docker -->
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<!-- Databases -->
+<img align="left" alt="MongoDB" width="30px" src="...mongodb-original.svg" style="padding-right:10px;" />
 
-<!-- Rust -->
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+<!-- Programming Languages -->
+<img align="left" alt="Rust" width="30px" src="...rust-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="30px" src="...cplusplus-line.svg" style="padding-right:10px;" />
 
-<!-- MongoDB -->
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
-<!-- Kubernetes -->
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-
-<!-- Vault -->
-<img align="left" alt="Vault" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" />
+<!-- Tools & Others -->
+<img align="left" alt="Git" width="30px" src="...git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="...github-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Gradle" width="30px" src="...gradle-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="30px" src="...bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="30px" src="...linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vault" width="30px" src="...vault-original.svg" style="padding-right:10px;" />
 <br />
 
