@@ -1,11 +1,11 @@
 #  :man: :computer: Sékou Junior Diakité 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Créateur+Digitale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Digital+Creator)](https://git.io/typing-svg)
 
 
  
-###  **Qui suis-je ?**
- Étudiant en génie de logiciel et informatique, présentement en voie d’obtenir mon baccalauréat . Mon expérience à titre d'étudiant m’a amené à participer à plusieurs projets académiques tels que le développement d’un site web de vente de produits informatiques, d’un agenda électronique, etc. J’ai pu à travers mon parcours académique développer de nombreuses habiletés professionnelles avec plusieurs langages de programmation et frameworks.
+###  **Who am I ?**
+I am a software engineering and computer science student anticipating graduation in December 2024, with hands-on experience in two full-stack developer roles and one in DevSecOps.
  
 ---
 
