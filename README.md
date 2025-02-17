@@ -1,8 +1,6 @@
 #  :man: :computer: Sékou Junior Diakité 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Specialist)](https://git.io/typing-svg)
-
-
   
 ## 🌎 **About Me:**  
 While I currently work as a **DevOps Specialist**, my experience in **System Administration and Full Stack Development** gives me a broad skill set to design, deploy, and maintain scalable, high-performance applications. Whether it’s managing cloud infrastructure, securing networks, or developing end-to-end web solutions, I’m always looking for new challenges to solve.  
