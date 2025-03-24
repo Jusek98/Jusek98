@@ -1,4 +1,4 @@
-#  :man: :computer: Sékou Junior Diakité 
+#  :computer: Sékou Junior Diakité 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Specialist)](https://git.io/typing-svg)
   
